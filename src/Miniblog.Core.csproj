@@ -17,6 +17,7 @@
     <PackageReference Include="WebEssentials.AspNetCore.StaticFilesWithCache" Version="1.0.1" />
     <PackageReference Include="WebMarkupMin.AspNetCore2" Version="2.4.2" />
     <PackageReference Include="WilderMinds.MetaWeblog" Version="1.2.3" />
+    <PackageReference Include="WindowsAzure.Storage" Version="8.7.0" />
   </ItemGroup>
 
 </Project>
